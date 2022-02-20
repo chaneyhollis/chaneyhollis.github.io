@@ -1,0 +1,90 @@
+@font-face {
+    font-family: myFirstFont;
+    src: url(/home/chaney/Projects/history-project/public/fonts/facile_sans-webfont.woff);
+}
+
+body {
+    background-image: url(/home/chaney/Projects/history-project/public/img/avengers-endgame-thor-captain-america-uhdpaper.com-4K-109.jpg);
+    background-color: lightgray;  
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}   
+
+body, body * {
+    font-family: myFirstFont, Tahoma, sans-serif !important;
+}
+
+/* Top Navigational Bar */
+#topnav {
+	width:100%;
+    text-align:center;
+	background-color: transparent;
+    position: relative;
+}
+
+#topnav ul {
+    display:inline-block;
+    list-style:none; 
+}
+
+* html #topnav ul { 
+    display:inline; /* Target IE6 */
+}
+
+*+html #topnav ul { 
+    display:inline; /* Target IE7 */
+}
+
+#topnav li {
+    display:inline;
+}
+
+#topnav li a {
+    float:left;
+    text-decoration:none; 
+    padding:0 30px; /* variable width  width: auto;*/
+    color: #F8FBFA;
+    font-size: 0.75vw;
+}
+
+#topnav li a:hover {
+    background-color: #111; /* Change the link color to #111 (black) on hover */
+ }
+
+.active {
+    background-color: #8B9D9E;
+}
+
+/* Front Page */
+#frontpage{
+    position: relative;
+    top: 5%;
+    transform: translateY(-5%);  
+    color: #F8FBFA;
+    text-align: center;
+    width:40%;
+}
+
+#frontpage h1 {
+    font-size: 4vw;
+}
+
+#frontpage button {
+    display: inline;
+    padding: 2.5%;
+    background-color: #D93D49; 
+    color: white;
+    border-width: 0vw;
+    border-color: #D93D49;
+    font-size: 1vw;
+    transition-duration: 0.4s;
+}
+
+#frontpage button:hover {
+    background-color: white; 
+    border-color: #D93D49;
+    border-width: 0.25vw;
+    color: #D93D49;
+    margin:auto;
+}
