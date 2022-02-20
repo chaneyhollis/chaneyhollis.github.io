@@ -1,6 +1,6 @@
 @font-face {
-    font-family: myFirstFont;
-    src: url(/home/chaney/Projects/history-project/public/fonts/facile_sans-webfont.woff);
+    font-family: "Facile Sans";
+    src: url(public/fonts/facile_sans-webfont.woff);
 }
 
 body {
@@ -12,7 +12,7 @@ body {
 }   
 
 body, body * {
-    font-family: myFirstFont, Tahoma, sans-serif !important;
+    font-family: "Facile Sans", Tahoma, sans-serif !important;
 }
 
 /* Top Navigational Bar */
