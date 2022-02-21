@@ -1,10 +1,10 @@
 @font-face {
     font-family: "Facile Sans";
-    src: url(https://github.com/chaneyhollis/chaneyhollis.github.io/blob/a27ef795579cbf03dd1f46f89e004c385775fb65/public/fonts/facile_sans-webfont.woff);
+    src: url('https://github.com/chaneyhollis/chaneyhollis.github.io/blob/a27ef795579cbf03dd1f46f89e004c385775fb65/public/fonts/facile_sans-webfont.woff');
 }
 
 body {
-    background-image: url(https://github.com/chaneyhollis/chaneyhollis.github.io/blob/a27ef795579cbf03dd1f46f89e004c385775fb65/public/img/avengers-endgame-thor-captain-america-uhdpaper.com-4K-109.jpg);
+    background-image: url('https://github.com/chaneyhollis/chaneyhollis.github.io/blob/a27ef795579cbf03dd1f46f89e004c385775fb65/public/img/avengers-endgame-thor-captain-america-uhdpaper.com-4K-109.jpg');
     background-color: lightgray;  
     background-repeat: no-repeat;
     background-size: cover;
