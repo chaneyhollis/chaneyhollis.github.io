@@ -3,7 +3,7 @@
     src: url('../fonts/facile_sans-webfont.woff');
 }
 
-body {
+#assemble body {
     background-image: url('../img/avengers-endgame-thor-captain-america-uhdpaper.com-4K-109.jpg');
     background-color: lightgray;  
     background-repeat: no-repeat;
