@@ -10,6 +10,12 @@
     background-size: cover;
 }
 
+#minimal body {
+    background-color: lightgray;  
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 body, body * {
     font-family: "Facile Sans", Tahoma, sans-serif !important;
 }
