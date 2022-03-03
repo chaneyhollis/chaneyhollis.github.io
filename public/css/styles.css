@@ -4,10 +4,12 @@
 }
 
 body {
-    /*background-image: url('../img/avengers-endgame-thor-captain-america-uhdpaper.com-4K-109.jpg');*/
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
     background-color: lightgray;  
     background-repeat: no-repeat;
-    background-size: cover;
 }
 
 body, body * {
