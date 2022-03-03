@@ -3,13 +3,20 @@
     src: url('../fonts/facile_sans-webfont.woff');
 }
 
-body {
+#frontpage body {
     background-image: url('../img/avengers-endgame-thor-captain-america-uhdpaper.com-4K-109.jpg');
     background-color: lightgray;  
     background-repeat: no-repeat;
     background-size: cover;
     
-}   
+}
+
+#articles_directory body {
+    background-image: url('../img/ironmam_fly.jpeg');
+    background-color: lightgray;  
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
 body, body * {
     font-family: "Facile Sans", Tahoma, sans-serif !important;
@@ -87,9 +94,4 @@ body, body * {
     border-width: 0.25vw;
     color: #D93D49;
     margin:auto;
-}
-
-/* Articles Directort */
-#articles_directory{
-	
 }
