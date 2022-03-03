@@ -10,14 +10,6 @@ body {
     background-size: cover;
     
 }
- /*
-#articles_directory body {
-    background-image: url('../img/ironmam_fly.jpeg');
-    background-color: lightgray;  
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-*/
 
 body, body * {
     font-family: "Facile Sans", Tahoma, sans-serif !important;
@@ -25,9 +17,9 @@ body, body * {
 
 /* Top Navigational Bar */
 #topnav {
-	width:100%;
+    width:100%;
     text-align:center;
-	background-color: transparent;
+    background-color: transparent;
     position: relative;
 }
 
