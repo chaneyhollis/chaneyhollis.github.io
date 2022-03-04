@@ -93,6 +93,7 @@ body, body * {
 .images_container {
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 
 .images_container img {
