@@ -118,6 +118,12 @@ tr, td, th {
 
 #article p {
     font-size: 1vw;
+    color: white;
+}
+
+#citations p {
+    font-size: 1vw;
+    color: white;
 }
 
 .float-container {
