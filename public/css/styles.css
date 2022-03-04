@@ -126,6 +126,12 @@ tr, td, th {
     color: white;
 }
 
+ .container {
+ float:left;
+ width: 960px;
+ margin: 0 auto;
+ height: 500px;
+ }
 
 .article1 {
  float:left;
