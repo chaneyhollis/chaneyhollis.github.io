@@ -46,7 +46,7 @@ body, body * {
     text-decoration:none; 
     padding:0 30px; /* variable width  width: auto;*/
     color: #F8FBFA;
-    font-size: 1vw;
+    font-size: 1.25vw;
 }
 
 #topnav li a:hover {
