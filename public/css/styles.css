@@ -97,13 +97,10 @@ table {
   cellpadding: "0";
 }
 
-tr {
+tr, td, th {
     width: 33%;
     height: 50%;
-}
-
-td, th { 
-  padding: 6px; 
-  border: 1px solid #d4af37; 
-  text-align: left; 
+    padding: 6px; 
+    border: 1px solid #d4af37; 
+    text-align: left; 
 }
