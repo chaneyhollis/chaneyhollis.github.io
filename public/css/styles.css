@@ -154,6 +154,7 @@ img {
         height: 200px;      
         float:left;
         margin: 0 auto;
+        display: inline-block;
 }
 
 .box2 {
@@ -161,6 +162,7 @@ img {
         height: 200px;      
         float:left;
         margin: 0 auto;
+        display: inline-block;
 }
 
 .box3 {
@@ -168,6 +170,7 @@ img {
         height: 200px;      
         float:left;
         margin: 0 auto;
+        display: inline-block;
 }
 
 
