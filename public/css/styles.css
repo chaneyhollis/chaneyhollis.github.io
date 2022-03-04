@@ -90,13 +90,18 @@ body, body * {
     margin:auto;
 }
 
-.images_container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+table { 
+  width: 100%; 
+  border-collapse: collapse; 
 }
 
-.images_container img {
-    margin-left: 5px;
-    margin-right: 5px;
+th { 
+  background: #333; 
+  color: white; 
+  font-weight: bold; 
+}
+td, th { 
+  padding: 6px; 
+  border: 1px solid #d4af37; 
+  text-align: left; 
 }
