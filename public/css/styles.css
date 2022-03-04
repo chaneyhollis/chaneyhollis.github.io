@@ -142,16 +142,16 @@ img {
 }
 
 .container {
- float:left;
- width: 100%;
+ width: 50%;
  margin: 0 auto;
- height: 400px;
+ position: absolute;
+ top: 50%;
+ transform: translate(0, -50%);
 }
 
 .box1 {
         width: 400px;
         height: 200px;      
-        border: 1px solid #d4af37;
         float:left;
         margin: 0 auto;
 }
@@ -159,7 +159,6 @@ img {
 .box2 {
         width: 400px;
         height: 200px;      
-        border: 1px solid #d4af37;
         float:left;
         margin: 0 auto;
 }
@@ -167,7 +166,6 @@ img {
 .box3 {
         width: 400px;
         height: 200px;      
-        border: 1px solid #d4af37;
         float:left;
         margin: 0 auto;
 }
