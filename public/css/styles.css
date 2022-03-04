@@ -111,6 +111,11 @@ tr, td, th {
     font-size: 4vw;
 }
 
+#citations h1 {
+    text-align: center;
+    font-size: 4vw;
+}
+
 #article p {
     font-size: 1vw;
 }
