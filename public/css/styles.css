@@ -93,13 +93,15 @@ body, body * {
 table { 
   width: 100%; 
   border-collapse: collapse; 
+  cellspacing: "0"; 
+  cellpadding: "0";
 }
 
-th { 
-  background: #333; 
-  color: white; 
-  font-weight: bold; 
+tr {
+    width: 33%;
+    height: 50%;
 }
+
 td, th { 
   padding: 6px; 
   border: 1px solid #d4af37; 
